@@ -9,3 +9,4 @@ Git 跟踪文件的变化
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 创建新分支快速而简单
+
