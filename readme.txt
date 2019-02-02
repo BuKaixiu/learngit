@@ -6,5 +6,6 @@ Git has a mutable index called stage.
 Git 有一个名为 stage 的可变索引
 Git tracks changes of files.
 Git 跟踪文件的变化
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
 创建新分支快速而简单
